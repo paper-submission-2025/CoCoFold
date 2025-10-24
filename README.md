@@ -18,7 +18,7 @@ CoCoFold is based on OpenFold, so installing CoCoFold first requires installing 
    ./scripts/download_openfold_params.sh ./openfold/resources/
    ./scripts/download_openfold_soloseq_params.sh ./openfold/resources/
    ```
-8. `cd ..` and ```git clone ```
+8. `cd ..` and ```git clone https://github.com/paper-submission-2025/CoCoFold.git```
 
 ## How to Use CoCoFold: Case Study with PDB Entry 6ZBH
 ### Step 1: Run Alphafold to get initial prediction and structure module parameters.
