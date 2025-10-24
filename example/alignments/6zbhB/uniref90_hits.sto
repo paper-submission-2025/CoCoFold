@@ -1,0 +1,525 @@
+# STOCKHOLM 1.0
+
+#=GS UniRef90_UPI001BB46F98/718-891 DE [subseq from] Precursor of the major merozoite surface antigens n=2 Tax=Plasmodium falciparum TaxID=5833 RepID=UPI001BB46F98
+#=GS UniRef90_Q8I0U8/737-910        DE [subseq from] Merozoite surface protein 1 n=133 Tax=Plasmodium falciparum TaxID=5833 RepID=MSP1_PLAF7
+#=GS UniRef90_A0A024W7X9/578-751    DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium falciparum Tanzania (2000708) TaxID=1036725 RepID=A0A024W7X9_PLAFA
+#=GS UniRef90_A5A8D2/712-885        DE [subseq from] Merozoite surface protein 1 n=62 Tax=Plasmodium falciparum TaxID=5833 RepID=A5A8D2_PLAFA
+#=GS UniRef90_M1V927/711-884        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=M1V927_PLAFA
+#=GS UniRef90_M1VEY0/711-884        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=M1VEY0_PLAFA
+#=GS UniRef90_M1V931/720-893        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=M1V931_PLAFA
+#=GS UniRef90_M1VKF1/726-899        DE [subseq from] Merozoite surface protein 1 n=2 Tax=Plasmodium falciparum TaxID=5833 RepID=M1VKF1_PLAFA
+#=GS UniRef90_M1VKD7/738-911        DE [subseq from] Merozoite surface protein 1 n=50 Tax=Plasmodium falciparum TaxID=5833 RepID=M1VKD7_PLAFA
+#=GS UniRef90_M1VKE3/741-914        DE [subseq from] Merozoite surface protein 1 n=3 Tax=Plasmodium falciparum TaxID=5833 RepID=M1VKE3_PLAFA
+#=GS UniRef90_M1VNZ8/741-914        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=M1VNZ8_PLAFA
+#=GS UniRef90_M1UZW3/743-916        DE [subseq from] Merozoite surface protein 1 n=153 Tax=Plasmodium falciparum TaxID=5833 RepID=M1UZW3_PLAFA
+#=GS UniRef90_M1VKE0/738-911        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=M1VKE0_PLAFA
+#=GS UniRef90_M1V903/726-902        DE [subseq from] Merozoite surface protein 1 n=2 Tax=Plasmodium falciparum TaxID=5833 RepID=M1V903_PLAFA
+#=GS UniRef90_M1VFC8/720-890        DE [subseq from] Merozoite surface protein 1 n=64 Tax=Plasmodium falciparum TaxID=5833 RepID=M1VFC8_PLAFA
+#=GS UniRef90_P08569/718-891        DE [subseq from] Merozoite surface protein 1 n=918 Tax=Plasmodium TaxID=5820 RepID=MSP1_PLAFM
+#=GS UniRef90_Q25961/734-899        DE [subseq from] Major surface antigen (Fragment) n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=Q25961_PLAFA
+#=GS UniRef90_M1VP35/739-903        DE [subseq from] Merozoite surface protein 1 n=2 Tax=Plasmodium falciparum TaxID=5833 RepID=M1VP35_PLAFA
+#=GS UniRef90_A5A7B2/712-876        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=A5A7B2_PLAFA
+#=GS UniRef90_M1VP86/715-879        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=M1VP86_PLAFA
+#=GS UniRef90_M1UZN1/717-881        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=M1UZN1_PLAFA
+#=GS UniRef90_M1V924/717-881        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=M1V924_PLAFA
+#=GS UniRef90_M1VP61/717-881        DE [subseq from] Merozoite surface protein 1 n=16 Tax=Plasmodium falciparum TaxID=5833 RepID=M1VP61_PLAFA
+#=GS UniRef90_S6B5R6/743-902        DE [subseq from] Merozoite surface protein 1 n=61 Tax=Plasmodium falciparum TaxID=5833 RepID=S6B5R6_PLAFA
+#=GS UniRef90_M1V0S1/716-874        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=M1V0S1_PLAFA
+#=GS UniRef90_M1V951/716-874        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=M1V951_PLAFA
+#=GS UniRef90_M1VKM3/716-874        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=M1VKM3_PLAFA
+#=GS UniRef90_A5A7C2/713-871        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=A5A7C2_PLAFA
+#=GS UniRef90_M1VKL8/722-880        DE [subseq from] Merozoite surface protein 1 n=2 Tax=Plasmodium falciparum TaxID=5833 RepID=M1VKL8_PLAFA
+#=GS UniRef90_A0A2P9D6B1/743-916    DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium sp. gorilla clade G3 TaxID=880536 RepID=A0A2P9D6B1_9APIC
+#=GS UniRef90_Q1WDD3/693-776        DE [subseq from] Merozoite surface protein 1 (Fragment) n=4 Tax=Plasmodium falciparum TaxID=5833 RepID=Q1WDD3_PLAFA
+#=GS UniRef90_A0A2P9CP99/713-872    DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium sp. DRC-Itaito TaxID=720590 RepID=A0A2P9CP99_9APIC
+#=GS UniRef90_A0A151LM12/715-869    DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium gaboni TaxID=647221 RepID=A0A151LM12_9APIC
+#=GS UniRef90_Q1WDD4/690-775        DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium falciparum TaxID=5833 RepID=Q1WDD4_PLAFA
+#=GS UniRef90_A0A060RSV3/787-939    DE [subseq from] Merozoite surface protein 1 n=10 Tax=Plasmodium (Laverania) TaxID=418107 RepID=A0A060RSV3_PLARE
+#=GS UniRef90_A0A2P9C0X1/701-861    DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium sp. gorilla clade G2 TaxID=880535 RepID=A0A2P9C0X1_9APIC
+#=GS UniRef90_P04933/742-883        DE [subseq from] Merozoite surface protein 1 n=54 Tax=Plasmodium falciparum TaxID=5833 RepID=MSP1_PLAFW
+#=GS UniRef90_A0A2P9BDP8/748-903    DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium sp. gorilla clade G1 TaxID=880534 RepID=A0A2P9BDP8_9APIC
+#=GS UniRef90_A0A2P9GK92/742-901    DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium sp. DRC-Itaito TaxID=720590 RepID=A0A2P9GK92_9APIC
+#=GS UniRef90_A0A1D3U8A2/780-925    DE [subseq from] Merozoite surface protein 1 n=13 Tax=Plasmodium ovale TaxID=36330 RepID=A0A1D3U8A2_9APIC
+#=GS UniRef90_O00791/188-337        DE [subseq from] Merozoite surface protein (Fragment) n=1 Tax=Plasmodium vivax TaxID=5855 RepID=O00791_PLAVI
+#=GS UniRef90_Q2I7F0/789-939        DE [subseq from] Merozoite surface protein 1 n=394 Tax=Plasmodium vivax TaxID=5855 RepID=Q2I7F0_PLAVI
+#=GS UniRef90_K9N0I4/84-234         DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium vivax TaxID=5855 RepID=K9N0I4_PLAVI
+#=GS UniRef90_A0A4Y5RUB9/58-199     DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium ovale wallikeri TaxID=864142 RepID=A0A4Y5RUB9_9APIC
+#=GS UniRef90_O00802/166-314        DE [subseq from] Merozoite surface protein (Fragment) n=8 Tax=Plasmodium vivax TaxID=5855 RepID=O00802_PLAVI
+#=GS UniRef90_Q8I0U0/785-937        DE [subseq from] Merozoite surface protein 1 n=7 Tax=Plasmodium vivax TaxID=5855 RepID=Q8I0U0_PLAVI
+#=GS UniRef90_E3WDI0/772-921        DE [subseq from] Merozoite surface protein 1 n=7 Tax=Plasmodium vivax TaxID=5855 RepID=E3WDI0_PLAVI
+#=GS UniRef90_K9N0X2/65-214         DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium vivax TaxID=5855 RepID=K9N0X2_PLAVI
+#=GS UniRef90_K9N237/65-214         DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium vivax TaxID=5855 RepID=K9N237_PLAVI
+#=GS UniRef90_Q8I1L1/798-950        DE [subseq from] Merozoite surface protein 1 n=35 Tax=Plasmodium vivax TaxID=5855 RepID=Q8I1L1_PLAVI
+#=GS UniRef90_O00800/189-338        DE [subseq from] Merozoite surface protein (Fragment) n=5 Tax=Plasmodium vivax TaxID=5855 RepID=O00800_PLAVI
+#=GS UniRef90_K9MZQ9/60-210         DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium vivax TaxID=5855 RepID=K9MZQ9_PLAVI
+#=GS UniRef90_D4AFM8/781-949        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium fieldi TaxID=77518 RepID=D4AFM8_9APIC
+#=GS UniRef90_A0A0J9TZP5/797-948    DE [subseq from] Merozoite surface protein 1 n=46 Tax=Plasmodium vivax TaxID=5855 RepID=A0A0J9TZP5_PLAVI
+#=GS UniRef90_A7BG15/877-1025       DE [subseq from] Merozoite surface protein 1 n=2 Tax=Plasmodium coatneyi TaxID=208452 RepID=A7BG15_9APIC
+#=GS UniRef90_A0A4Y5RRN2/67-197     DE [subseq from] Merozoite surface protein 1 (Fragment) n=5 Tax=Plasmodium ovale curtisi TaxID=864141 RepID=A0A4Y5RRN2_9APIC
+#=GS UniRef90_D5I786/787-945        DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium vivax TaxID=5855 RepID=D5I786_PLAVI
+#=GS UniRef90_Q8I1M5/784-944        DE [subseq from] Merozoite surface protein 1 n=3 Tax=Plasmodium vivax TaxID=5855 RepID=Q8I1M5_PLAVI
+#=GS UniRef90_D5I7F4/787-937        DE [subseq from] Merozoite surface protein 1 (Fragment) n=10 Tax=Plasmodium vivax TaxID=5855 RepID=D5I7F4_PLAVI
+#=GS UniRef90_D7P369/797-947        DE [subseq from] Merozoite surface protein 1 (Fragment) n=151 Tax=Plasmodium vivax TaxID=5855 RepID=D7P369_PLAVI
+#=GS UniRef90_A0A4Y5RTA7/55-200     DE [subseq from] Merozoite surface protein 1 (Fragment) n=6 Tax=Plasmodium ovale curtisi TaxID=864141 RepID=A0A4Y5RTA7_9APIC
+#=GS UniRef90_D7P392/779-937        DE [subseq from] Merozoite surface protein 1 (Fragment) n=25 Tax=Plasmodium vivax TaxID=5855 RepID=D7P392_PLAVI
+#=GS UniRef90_D4AFM7/820-933        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium fieldi TaxID=77518 RepID=D4AFM7_9APIC
+#=GS UniRef90_R4IKY6/842-964        DE [subseq from] Merozoite surface protein 1 (Fragment) n=32 Tax=Plasmodium knowlesi TaxID=5850 RepID=R4IKY6_PLAKN
+#=GS UniRef90_Q8I1L6/805-953        DE [subseq from] Merozoite surface protein 1 n=33 Tax=Plasmodium vivax TaxID=5855 RepID=Q8I1L6_PLAVI
+#=GS UniRef90_D5I768/772-922        DE [subseq from] Merozoite surface protein 1 (Fragment) n=3 Tax=Plasmodium vivax TaxID=5855 RepID=D5I768_PLAVI
+#=GS UniRef90_K9N261/70-215         DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium vivax TaxID=5855 RepID=K9N261_PLAVI
+#=GS UniRef90_D5I7C4/782-932        DE [subseq from] Merozoite surface protein 1 (Fragment) n=15 Tax=Plasmodium vivax TaxID=5855 RepID=D5I7C4_PLAVI
+#=GS UniRef90_F1BZ57/784-935        DE [subseq from] Merozoite surface protein 1 n=60 Tax=Plasmodium vivax TaxID=5855 RepID=F1BZ57_PLAVI
+#=GS UniRef90_D7P370/762-911        DE [subseq from] Merozoite surface protein 1 (Fragment) n=29 Tax=Plasmodium vivax TaxID=5855 RepID=D7P370_PLAVI
+#=GS UniRef90_F1BZ53/770-917        DE [subseq from] Merozoite surface protein 1 n=4 Tax=Plasmodium vivax TaxID=5855 RepID=F1BZ53_PLAVI
+#=GS UniRef90_F1BZ54/770-917        DE [subseq from] Merozoite surface protein 1 n=3 Tax=Plasmodium vivax TaxID=5855 RepID=F1BZ54_PLAVI
+#=GS UniRef90_Q8I0S8/770-917        DE [subseq from] Merozoite surface protein 1 n=137 Tax=Plasmodium vivax TaxID=5855 RepID=Q8I0S8_PLAVI
+#=GS UniRef90_D7P3B3/755-904        DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium vivax TaxID=5855 RepID=D7P3B3_PLAVI
+#=GS UniRef90_D7P3B4/759-903        DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium vivax TaxID=5855 RepID=D7P3B4_PLAVI
+#=GS UniRef90_F1BZ58/741-890        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium vivax TaxID=5855 RepID=F1BZ58_PLAVI
+#=GS UniRef90_Q8I1K9/752-901        DE [subseq from] Merozoite surface protein 1 n=4 Tax=Plasmodium vivax TaxID=5855 RepID=Q8I1K9_PLAVI
+#=GS UniRef90_F1BZ56/761-910        DE [subseq from] Merozoite surface protein 1 n=39 Tax=Plasmodium vivax TaxID=5855 RepID=F1BZ56_PLAVI
+#=GS UniRef90_D5I752/763-912        DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium vivax TaxID=5855 RepID=D5I752_PLAVI
+#=GS UniRef90_D7P379/763-912        DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium vivax TaxID=5855 RepID=D7P379_PLAVI
+#=GS UniRef90_Q02569/757-906        DE [subseq from] Merozoite surface protein 1 n=2 Tax=Plasmodium vivax TaxID=5855 RepID=Q02569_PLAVI
+#=GS UniRef90_E3WDH7/757-906        DE [subseq from] Merozoite surface protein 1 n=9 Tax=Plasmodium vivax TaxID=5855 RepID=E3WDH7_PLAVI
+#=GS UniRef90_D7P364/761-910        DE [subseq from] Merozoite surface protein 1 (Fragment) n=3 Tax=Plasmodium vivax TaxID=5855 RepID=D7P364_PLAVI
+#=GS UniRef90_D5I753/763-912        DE [subseq from] Merozoite surface protein 1 (Fragment) n=13 Tax=Plasmodium vivax TaxID=5855 RepID=D5I753_PLAVI
+#=GS UniRef90_D5I7F1/769-918        DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium vivax TaxID=5855 RepID=D5I7F1_PLAVI
+#=GS UniRef90_Q8I1M6/762-911        DE [subseq from] Merozoite surface protein 1 n=9 Tax=Plasmodium vivax TaxID=5855 RepID=Q8I1M6_PLAVI
+#=GS UniRef90_D7P374/761-910        DE [subseq from] Merozoite surface protein 1 (Fragment) n=6 Tax=Plasmodium vivax TaxID=5855 RepID=D7P374_PLAVI
+#=GS UniRef90_Q8I0K3/765-906        DE [subseq from] Merozoite surface protein 1 n=16 Tax=Plasmodium vivax TaxID=5855 RepID=Q8I0K3_PLAVI
+#=GS UniRef90_M4YDU7/773-908        DE [subseq from] Merozoite surface protein 1 (Fragment) n=13 Tax=Plasmodium ovale TaxID=36330 RepID=M4YDU7_9APIC
+#=GS UniRef90_E3WDJ0/752-902        DE [subseq from] Merozoite surface protein 1 n=19 Tax=Plasmodium vivax TaxID=5855 RepID=E3WDJ0_PLAVI
+#=GS UniRef90_D5I788/756-907        DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium vivax TaxID=5855 RepID=D5I788_PLAVI
+#=GS UniRef90_D5I758/763-915        DE [subseq from] Merozoite surface protein 1 (Fragment) n=6 Tax=Plasmodium vivax TaxID=5855 RepID=D5I758_PLAVI
+#=GS UniRef90_G4XPA4/864-981        DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium knowlesi TaxID=5850 RepID=G4XPA4_PLAKN
+#=GS UniRef90_Q8I1L9/783-933        DE [subseq from] Merozoite surface protein 1 n=101 Tax=Plasmodium vivax TaxID=5855 RepID=Q8I1L9_PLAVI
+#=GS UniRef90_R4IL15/848-963        DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium knowlesi TaxID=5850 RepID=R4IL15_PLAKN
+#=GS UniRef90_R4IKU0/848-963        DE [subseq from] Merozoite surface protein 1 (Fragment) n=23 Tax=Plasmodium knowlesi TaxID=5850 RepID=R4IKU0_PLAKN
+#=GS UniRef90_G4XP94/848-963        DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium knowlesi TaxID=5850 RepID=G4XP94_PLAKN
+#=GS UniRef90_G4XPA7/848-963        DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium knowlesi TaxID=5850 RepID=G4XPA7_PLAKN
+#=GS UniRef90_R4ILC9/848-963        DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium knowlesi TaxID=5850 RepID=R4ILC9_PLAKN
+#=GS UniRef90_R4ILD1/866-981        DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium knowlesi TaxID=5850 RepID=R4ILD1_PLAKN
+#=GS UniRef90_G4XPA8/868-985        DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium knowlesi TaxID=5850 RepID=G4XPA8_PLAKN
+#=GS UniRef90_D7P371/753-903        DE [subseq from] Merozoite surface protein 1 (Fragment) n=3 Tax=Plasmodium vivax TaxID=5855 RepID=D7P371_PLAVI
+#=GS UniRef90_D4AFM9/756-924        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium fieldi TaxID=77518 RepID=D4AFM9_9APIC
+#=GS UniRef90_A7BG24/827-941        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium cynomolgi TaxID=5827 RepID=A7BG24_9APIC
+#=GS UniRef90_D5I766/754-903        DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium vivax TaxID=5855 RepID=D5I766_PLAVI
+#=GS UniRef90_D5I760/762-911        DE [subseq from] Merozoite surface protein 1 (Fragment) n=3 Tax=Plasmodium vivax TaxID=5855 RepID=D5I760_PLAVI
+#=GS UniRef90_D7P3A8/757-906        DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium vivax TaxID=5855 RepID=D7P3A8_PLAVI
+#=GS UniRef90_Q8I1L3/754-903        DE [subseq from] Merozoite surface protein 1 n=9 Tax=Plasmodium vivax TaxID=5855 RepID=Q8I1L3_PLAVI
+#=GS UniRef90_D4AFL3/822-964        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium knowlesi TaxID=5850 RepID=D4AFL3_PLAKN
+#=GS UniRef90_G4XPA0/832-971        DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium knowlesi TaxID=5850 RepID=G4XPA0_PLAKN
+#=GS UniRef90_D5I764/761-913        DE [subseq from] Merozoite surface protein 1 (Fragment) n=8 Tax=Plasmodium vivax TaxID=5855 RepID=D5I764_PLAVI
+#=GS UniRef90_G4XPA2/839-978        DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium knowlesi TaxID=5850 RepID=G4XPA2_PLAKN
+#=GS UniRef90_D4AFN0/855-969        DE [subseq from] Merozoite surface protein 1 n=3 Tax=Plasmodium fragile TaxID=5857 RepID=D4AFN0_PLAFR
+#=GS UniRef90_D4AFL2/841-959        DE [subseq from] Merozoite surface protein 1 n=4 Tax=Plasmodium knowlesi TaxID=5850 RepID=D4AFL2_PLAKN
+#=GS UniRef90_A7BG17/829-951        DE [subseq from] Merozoite surface protein 1 n=2 Tax=Plasmodium hylobati TaxID=77520 RepID=A7BG17_PLAHY
+#=GS UniRef90_A0A0N9H6C8/115-243    DE [subseq from] Merozoite surface protein 1 (Fragment) n=23 Tax=Plasmodium vivax TaxID=5855 RepID=A0A0N9H6C8_PLAVI
+#=GS UniRef90_G4XP99/835-956        DE [subseq from] Merozoite surface protein 1 (Fragment) n=3 Tax=Plasmodium knowlesi TaxID=5850 RepID=G4XP99_PLAKN
+#=GS UniRef90_C9DPH5/99-227         DE [subseq from] Merozoite surface protein (Fragment) n=15 Tax=Plasmodium vivax TaxID=5855 RepID=C9DPH5_PLAVI
+#=GS UniRef90_A0A0N9H8Y4/92-220     DE [subseq from] Merozoite surface protein 1 (Fragment) n=7 Tax=Plasmodium vivax TaxID=5855 RepID=A0A0N9H8Y4_PLAVI
+#=GS UniRef90_A0A0N9H0D9/100-228    DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium vivax TaxID=5855 RepID=A0A0N9H0D9_PLAVI
+#=GS UniRef90_A0A023PZP0/754-908    DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium yoelii yoelii TaxID=73239 RepID=A0A023PZP0_PLAYO
+#=GS UniRef90_Q8MPJ2/87-215         DE [subseq from] Merozoite surface protein 1 (Fragment) n=28 Tax=Plasmodium vivax TaxID=5855 RepID=Q8MPJ2_PLAVI
+#=GS UniRef90_X2J2B2/538-654        DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium relictum TaxID=85471 RepID=X2J2B2_PLARL
+#=GS UniRef90_G4XP98/869-986        DE [subseq from] Merozoite surface protein 1 (Fragment) n=9 Tax=Plasmodium knowlesi TaxID=5850 RepID=G4XP98_PLAKN
+#=GS UniRef90_Q8MPJ5/89-213         DE [subseq from] Merozoite surface protein 1 (Fragment) n=3 Tax=Plasmodium vivax TaxID=5855 RepID=Q8MPJ5_PLAVI
+#=GS UniRef90_A0A449BRM6/811-977    DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium vinckei vinckei TaxID=54757 RepID=A0A449BRM6_PLAVN
+#=GS UniRef90_Q8MPJ8/91-219         DE [subseq from] Merozoite surface protein 1 (Fragment) n=29 Tax=Plasmodium vivax TaxID=5855 RepID=Q8MPJ8_PLAVI
+#=GS UniRef90_D4AFM6/805-923        DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium cynomolgi TaxID=5827 RepID=D4AFM6_9APIC
+#=GS UniRef90_A7BG20/800-910        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium simiovale TaxID=35085 RepID=A7BG20_PLASM
+#=GS UniRef90_A7BG22/794-943        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium cynomolgi TaxID=5827 RepID=A7BG22_9APIC
+#=GS UniRef90_A7BG27/795-943        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium cynomolgi TaxID=5827 RepID=A7BG27_9APIC
+#=GS UniRef90_A7BG25/794-943        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium cynomolgi TaxID=5827 RepID=A7BG25_9APIC
+#=GS UniRef90_A7BG23/799-939        DE [subseq from] Merozoite surface protein 1 n=3 Tax=Plasmodium cynomolgi TaxID=5827 RepID=A7BG23_9APIC
+#=GS UniRef90_A0A1J1GWB8/692-822    DE [subseq from] Merozoite surface protein 1 n=2 Tax=Plasmodium gallinaceum TaxID=5849 RepID=A0A1J1GWB8_PLAGA
+#=GS UniRef90_A7BG26/822-966        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium cynomolgi TaxID=5827 RepID=A7BG26_9APIC
+#=GS UniRef90_A7BG31/798-944        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium cynomolgi TaxID=5827 RepID=A7BG31_9APIC
+#=GS UniRef90_P13828/784-912        DE [subseq from] Merozoite surface protein 1 n=3 Tax=Plasmodium yoelii TaxID=5861 RepID=MSP1_PLAYO
+#=GS UniRef90_D4AFM1/907-1057       DE [subseq from] Merozoite surface protein 1 n=12 Tax=Plasmodium inui TaxID=52288 RepID=D4AFM1_9APIC
+#=GS UniRef90_A7BG21/818-956        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium cynomolgi TaxID=5827 RepID=A7BG21_9APIC
+#=GS UniRef90_A7BG30/768-907        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium cynomolgi TaxID=5827 RepID=A7BG30_9APIC
+#=GS UniRef90_A0A1D3SCF1/790-941    DE [subseq from] Merozoite surface protein 1 n=11 Tax=Plasmodium berghei TaxID=5821 RepID=A0A1D3SCF1_PLABE
+#=GS UniRef90_D4AFN2/769-885        DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium gonderi TaxID=77519 RepID=D4AFN2_PLAGO
+#=GS UniRef90_A0A5A4MP72/95-220     DE [subseq from] Merozoite surface protein (Fragment) n=4 Tax=Plasmodium vivax TaxID=5855 RepID=A0A5A4MP72_PLAVI
+#=GS UniRef90_A0A1C3KBX4/822-947    DE [subseq from] Merozoite surface protein 1 n=3 Tax=Plasmodium malariae TaxID=5858 RepID=A0A1C3KBX4_PLAMA
+#=GS UniRef90_Q8MPI6/115-243        DE [subseq from] Merozoite surface protein 1 (Fragment) n=48 Tax=Plasmodium vivax TaxID=5855 RepID=Q8MPI6_PLAVI
+#=GS UniRef90_A0A1J1H3N0/688-806    DE [subseq from] Merozoite surface protein 1 n=60 Tax=Plasmodium relictum TaxID=85471 RepID=A0A1J1H3N0_PLARL
+#=GS UniRef90_B9A1D1/763-934        DE [subseq from] Merozoite surface protein 1 n=8 Tax=Plasmodium chabaudi TaxID=5825 RepID=B9A1D1_PLACU
+#=GS UniRef90_Q2EJ80/40-164         DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium vivax TaxID=5855 RepID=Q2EJ80_PLAVI
+#=GS UniRef90_V7PP57/818-933        DE [subseq from] Merozoite surface protein 1 n=2 Tax=Plasmodium yoelii TaxID=5861 RepID=V7PP57_PLAYE
+#=GS UniRef90_A0A6V7SUD5/772-918    DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium vinckei TaxID=5860 RepID=A0A6V7SUD5_PLAVN
+#=GS UniRef90_A0A6V7S4A0/792-941    DE [subseq from] Merozoite surface protein 1 n=1 Tax=Plasmodium vinckei lentum TaxID=138297 RepID=A0A6V7S4A0_PLAVN
+#=GS UniRef90_B9A1D6/756-921        DE [subseq from] Merozoite surface protein 1 n=4 Tax=Plasmodium chabaudi adami TaxID=5826 RepID=B9A1D6_PLACH
+#=GS UniRef90_A0A5A4MIH2/90-211     DE [subseq from] Merozoite surface protein (Fragment) n=12 Tax=Plasmodium vivax TaxID=5855 RepID=A0A5A4MIH2_PLAVI
+#=GS UniRef90_D4AFM3/823-972        DE [subseq from] Merozoite surface protein 1 n=2 Tax=Plasmodium inui TaxID=52288 RepID=D4AFM3_9APIC
+#=GS UniRef90_B9A1D3/828-942        DE [subseq from] Merozoite surface protein 1 n=16 Tax=Plasmodium (Vinckeia) TaxID=418101 RepID=B9A1D3_PLACU
+#=GS UniRef90_Q03996/132-247        DE [subseq from] Major merozoite surface antigen (Fragment) n=1 Tax=Plasmodium chabaudi TaxID=5825 RepID=Q03996_PLACH
+#=GS UniRef90_W7AFH8/763-916        DE [subseq from] Merozoite surface protein 1 n=2 Tax=Plasmodium vinckei TaxID=5860 RepID=W7AFH8_PLAVN
+#=GS UniRef90_C9DPH3/32-112         DE [subseq from] Merozoite surface protein (Fragment) n=1 Tax=Plasmodium vivax TaxID=5855 RepID=C9DPH3_PLAVI
+#=GS UniRef90_A0A1D3JMS5/888-989    DE [subseq from] Merozoite surface protein 1 n=29 Tax=Plasmodium TaxID=5820 RepID=A0A1D3JMS5_PLAMA
+#=GS UniRef90_Q25684/56-222         DE [subseq from] Major merozoite surface antigen (Fragment) n=2 Tax=Plasmodium chabaudi TaxID=5825 RepID=Q25684_PLACH
+#=GS UniRef90_H9NKU5/50-157         DE [subseq from] Merozoite surface protein (Fragment) n=3 Tax=Plasmodium vivax TaxID=5855 RepID=H9NKU5_PLAVI
+#=GS UniRef90_C1JFB4/70-176         DE [subseq from] Merozotite surface protein 1 (Fragment) n=3 Tax=Plasmodium vivax TaxID=5855 RepID=C1JFB4_PLAVI
+#=GS UniRef90_Q5Q1E6/69-167         DE [subseq from] Merozoite surface protein 1 (Fragment) n=2 Tax=Plasmodium vivax TaxID=5855 RepID=Q5Q1E6_PLAVI
+#=GS UniRef90_Q5Q1G5/100-197        DE [subseq from] Merozoite surface protein 1 (Fragment) n=43 Tax=Plasmodium vivax TaxID=5855 RepID=Q5Q1G5_PLAVI
+#=GS UniRef90_Q5Q1E4/76-173         DE [subseq from] Merozoite surface protein 1 (Fragment) n=26 Tax=Plasmodium vivax TaxID=5855 RepID=Q5Q1E4_PLAVI
+#=GS UniRef90_A0A8F2ZGI5/674-743    DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium relictum TaxID=85471 RepID=A0A8F2ZGI5_PLARL
+#=GS UniRef90_Q9U5L4/153-215        DE [subseq from] Merozoite surface protein 1 (Fragment) n=1 Tax=Plasmodium vivax TaxID=5855 RepID=Q9U5L4_PLAVI
+#=GS UniRef90_I2B3M7/68-165         DE [subseq from] Merozoite surface protein 1 (Fragment) n=37 Tax=Plasmodium vivax TaxID=5855 RepID=I2B3M7_PLAVI
+#=GS UniRef90_C1JFB8/62-154         DE [subseq from] Merozotite surface protein 1 (Fragment) n=2 Tax=Plasmodium vivax TaxID=5855 RepID=C1JFB8_PLAVI
+#=GS UniRef90_Q5UB73/73-147         DE [subseq from] Merozoite surface protein 1 (Fragment) n=4 Tax=Plasmodium vivax TaxID=5855 RepID=Q5UB73_PLAVI
+#=GS UniRef90_A7UDU0/70-152         DE [subseq from] Merozoite surface protein-1 (Fragment) n=1 Tax=Plasmodium vivax TaxID=5855 RepID=A7UDU0_PLAVI
+#=GS UniRef90_A7UDT8/89-171         DE [subseq from] Merozoite surface protein-1 (Fragment) n=1 Tax=Plasmodium vivax TaxID=5855 RepID=A7UDT8_PLAVI
+
+6zbgB                                  SQSGETEVTEETE---ETEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----Q-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEEN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_UPI001BB46F98/718-891         SQSGETEVTEETE---ETEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----Q-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEEN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_Q8I0U8/737-910                SQSGETEVTEETE---ETEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEEN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_A0A024W7X9/578-751            SQSGETEVTEETE---ETEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_A5A8D2/712-885                SQSGETEVTEETE---ETEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1V927/711-884                SQSGETEVTEETE---ETEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1VEY0/711-884                SQSGETEVTEETE---ETEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1V931/720-893                SQSGETEVTEETE---ETEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1VKF1/726-899                SQSGETEVTEETE---ETEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1VKD7/738-911                SQSGETEVTEETE---ETEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1VKE3/741-914                SQSGETEVTEETE---ETEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1VNZ8/741-914                SQSGETEVTEETE---ETEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1UZW3/743-916                SQSGETEVTEETE---ETEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1VKE0/738-911                SQSGETEVTEETE---ETEETGGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEEN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1V903/726-902                SQSGETEVTEETEETEETEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1VFC8/720-890                SQSGETEVTEE------TEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_P08569/718-891                SQSGETEVTEETE---VTEETVGHTTTV-----T--ITLPPK-----EE--SAPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEEN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_Q25961/734-899                --SG------ETE---VTEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEEN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1VP35/739-903                SQSGETEVTEE------TEETVGHTTTV-----T--ITLP-------------PKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEEN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_A5A7B2/712-876                SQSGETEVTEE------TEETVGHTTTV-----T--ITLP-------------PKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1VP86/715-879                SQSGETEVTEE------TEETVGHTTTV-----T--ITLP-------------PKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1UZN1/717-881                SQSGETEVTEE------TEETVGHTTTV-----T--ITLP-------------PKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1V924/717-881                SQSGETEVTEE------TEETVGHTTTV-----T--ITLP-------------PKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1VP61/717-881                SQSGETEVTEE------TEETVGHTTTV-----T--ITLP-------------PKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_S6B5R6/743-902                --SG------ETE---VTEETVGHTTTV-----T--ITLP-------------PKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1V0S1/716-874                --SG------ETE---VTEETVGHT-TV-----T--ITLP-------------PKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1V951/716-874                --SG------ETE---VTEETVGHT-TV-----T--ITLP-------------PKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1VKM3/716-874                --SG------ETE---VTEETVGHT-TV-----T--ITLP-------------PKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_A5A7C2/713-871                --SG------ETE---VTEETVGHT-TV-----T--ITLP-------------PKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_M1VKL8/722-880                --SG------ETE---VTEETVGHT-TV-----T--ITLP-------------PKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKLLEVYNLTPEEKN--E-L--K--S--C--DPLDLLFNIQNNIPAMYSLYDSMNNDLQHLFFELYQKE
+UniRef90_A0A2P9D6B1/743-916            -----TPITSTTT---SSSPTSGPATST-----TSLPTAAPS-----AA--SPPTNPTTSGD-NTL---T----T-----R---TNESGKD----NTQEISKLEYLKKLYEFLNSSYICHKYILVSNSTMNKSLLENYKITDDEKA--K-L--G--S--C--DPLDLLFNIQNNIPVMYSMFDSIGNNIQQLFMKIYEKE
+UniRef90_Q1WDD3/693-776                --SG------ETE---VTEETVGHTTTV-----T--ITLPPT-----QP--SPPKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKL------------------------------------------------------------------
+UniRef90_A0A2P9CP99/713-872            ----------PTP---TTPTTPTPTATP-----P--TATPPT-----TP--EKPETVS-SEN-TSV---E----K-----TNKPEH----D----NTEKVSKLEYLEKLYEFLNTSYICHKYILVSNSTMNKSLLEKYKIENNEEA--K-L--K--S--C--DPLDLLFNIQNNIPVMYSMFDSVSNNIQQLFMEIYEKE
+UniRef90_A0A151LM12/715-869            -----------------TP-TTPTTPTP-----T--TPTTPT-----TP--EKPETVS-SEN-TSV---E----K-----TNKPEH----D----NTEKVSKLEYLEKLYEFLNTSYICHKYILVSNSTMNKSLLEKYKIENNEEA--K-L--K--S--C--DPLDLLFNIQNNIPVMYSMFDSVSNNIQQLFMEIYEKE
+UniRef90_Q1WDD4/690-775                SQSGETEVTEETE---ETEETVGHTTTV-----T--ITLP-------------PKEVK-VVE-NSI---E----H-----K---SN----D----NSQALTKTVYLKKLDEFLTKSYICHKYILVSNSSMDQKL------------------------------------------------------------------
+UniRef90_A0A060RSV3/787-939            ------------------------TTTLP---PQ--PTVPQA-----QPEVAPPPQEK-GAEVPAA---P----T-----Q---AN----D----KTKNVSKLNYLEKLYEFLNTSYICHKYILVSNS-TDKNILDQYKLTDEEEN--K-L--S--S--C--DPLDLLFNIQNNIPVMYSMFDSLNNSLSQLFMEIYEKE
+UniRef90_A0A2P9C0X1/701-861            -----TTISTSTS---AEIESGSQPAT----------TSAST-----EV--TTPASTP-VTT-KPA---S----E-----S---VN----D----KTENVSKLDYLKKLYEFLNTSYICHKYILVSHSSMNETILKQYEITNDEEK--K-L--S--S--C--DPLDLLFNIQNNIPVMYSMFDSLNNTLPQLLMEIYEKE
+UniRef90_P04933/742-883                ----------------------------------------PP-----VP--VPVPEAK-AQV-PTP---P----A-----P---VN----N----KTENVSKLDYLEKLYEFLNTSYICHKYILVSHSTMNEKILKQYKITKEEES--K-L--S--S--C--DPLDLLFNIQNNIPVMYSMFDSLNNSLSQLFMEIYEKE
+UniRef90_A0A2P9BDP8/748-903            ------------------EEKAPPAQTP-----P--AQTPPA-----QT--PPAPPTP-APP-TPA---P----A-----P---VN----N----KSENVSKLNYLEKLYEFLNTSYICHKHILVSNS-TDKNILDKYKITKEEEN--K-L--S--S--C--DPLDLLFNIQNNIPVMYSMFDSLNNSLSQLFMEIYEKE
+UniRef90_A0A2P9GK92/742-901            ---------TPTP---PTPTTTTSTTTA-----T--TTTPSS-----PP--TKPETVS--SE-DTL---T----T-----K---TN----EPDHGNTEKVSKLEYLQKLYEFLNTSYICHKYILVSNSTMKKTSLDKYKITDDEKD--K-I--S--S--C--DPLDLLFNIQNNIPVMYSLFDSVNNNMQQLFMEIYEKE
+UniRef90_A0A1D3U8A2/780-925            ---------------------------------------PAT-----EA--QAQAPVQ-PTQ-GQV--------Q-----A---AT----Q----NGPTMTKLQYLEKLYDFLYTSYVCHKYILVTNSTMNKDLLAKYNLTPEEEE--K-K--K--TIKC--DKLDILFNLQNNLPVMYSLFDNMSSTLQNNYIQLYEKE
+UniRef90_O00791/188-337                ---------------------VASTQTT-----S--QAPAPT-----QA--SPE-PAP-AVP-PST---P----A-----A---AV----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_Q2I7F0/789-939                ---------------------VASTQTT-----S--QAPAPT-----QA--SPE-PAP-AAP-PST---P----A-----A---AV----A----PAPTMSKLEYLQKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_K9N0I4/84-234                 ---------------------VASTQTT-----S--QAPAPT-----QA--SPE-PAP-AAP-PST---P----A-----A---AV----A----PAPTMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_A0A4Y5RUB9/58-199             ------------------------------------------------P--VAPAPVQ-PTQ-GQV--------Q-----V---AT----Q----NGPTMTKLQYLEKLYDFLYTSYVCHKYILVTNSTMNTDLLAKYNLTQEEEE--K-K--K--TIKC--DQLDLLFNLQNNLPVMYSLFDNMTSTLQSSYVQLYEKE
+UniRef90_O00802/166-314                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_Q8I0U0/785-937                ---------------------VASTQTT-----S--QAPAPT-----QA--SPE-PAP-AVP-PST---P----A-----A---AV----A----PAPAMSKLEYLQKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_E3WDI0/772-921                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_K9N0X2/65-214                 ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_K9N237/65-214                 ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_Q8I1L1/798-950                ---------------------VASTQTT-----S--QAPAPT-----QA--SPE-PAP-AVP-PST---P----A-----A---AV----A----PAPTMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_O00800/189-338                ---------------------VASTQTI-----S--QAPAPT-----QA--SPE-PAP-AAP-PST---P----A-----A---AV----A----PAPTMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-T--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSSELQNLYIELYQKE
+UniRef90_K9MZQ9/60-210                 ---------------------VASTQTT-----S--QAPAPT-----QA--SPE-PAP-AAP-PST---P----A-----A---AV----A----PAPTMSKLEYLPKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D4AFM8/781-949                -ETTEEEATEEGE---TTPVVPGAVPAA-----P--GVAPAT-----TP--EAAVPAA-AAP-GAA---A----P----AV---PA----P----AAPSMSKLEYLEKLLDFLKSSYACHKHIFVTNSTMNKDLLSQYELTADEKN--K-I--KEST--C--DQLDLLFNIQNNLPAMYSIYDTMINDLQNLYIELYQKE
+UniRef90_A0A0J9TZP5/797-948            ---------------------VASTQTT-----S--QAPAPT-----QA--SPE-PAP-AVP-PST---P----A-----A---AV----A----PAPTMSKLEYLQKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_A7BG15/877-1025               -----------------------ETEDV-----T--TQEAPA-----QP--AEPTPAA-TAP-VAT--AP----A-----T---TT----P----AVPPMSKLQYLEKLLEFLKSSYACHKHIFLTNSTMSPQLLEQYKLTADEET--Q-I--KQST--C--DQLDLLFNIQNNLPAMYSMYDTMTNDLQNLYIELYQKE
+UniRef90_A0A4Y5RRN2/67-197             ---------------------------------------------------------------GQV--------Q-----A---AT----Q----NGPTMTKLQYLEKLYDFLYTSYVCHKYILVTNSTMNKDLLAKYNLTPEEEE--K-K--K--T--IKGDQLNLWFNLQNNLPVRYSLFDNMTSTLQSIYFQLYEKE
+UniRef90_D5I786/787-945                -----------AA---QVQQTPAGDAQQ-----V--ISTQPT-----SQ--SAAPGVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_Q8I1M5/784-944                -----------AA---QVQQTPAGDAQQ-----V--ISTQPT-----SQ--SAAPGVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D5I7F4/787-937                ---------------------VASTQTI-----S--QAPAPT-----QA--SPE-PAP-AAP-PST---P----A-----A---AV----A----PAPTMSKLEYLQKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D7P369/797-947                ---------------------VASTQTI-----S--QAPAPT-----QA--SPE-PAP-AAP-PST---P----A-----A---AV----A----PAPTMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_A0A4Y5RTA7/55-200             ---------------------------------------PAT-----EA--QAQAPVQ-PTQ-GQV--------Q-----A---AT----Q----NGPTMTKFQYLEKLYDFLYTSYVCHKYILVTNFTMNKDLLAKYNFTPEEEE--K-K--K--TIKC--DKLDILFNLQNNLPVMYSLFDNMSSTLQNNYIQLYEKE
+UniRef90_D7P392/779-937                -----------AA---QVQQTPAGDAQQ-----V--ISTQPT-----SQ--SAAPGVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D4AFM7/820-933                -------------------------------------------------------------------------------------------------PSMSKLEYLEKLLDFLKSSYACHKHIFITNSTMNKDLLSQYELTAEEKN--K-I--KEST--C--DQLDLLFNVQNNLPAMYSIYDTMINDLQNLYIELYQKE
+UniRef90_R4IKY6/842-964                --------------------------------------------------------------------------------T---TA----P----AAPAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNLYIELYQKE
+UniRef90_Q8I1L6/805-953                -----------------------STQTT-----S--QAPAPN-----QA--SP-EPAP-AAP-PST---P----A-----A---AV----A----PAPTMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D5I768/772-922                ---------------------AGDAQQV-----I--STQ-PT-----SQ--SAAPDVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_K9N261/70-215                 --------------------------QV-----I--STQ-PT-----SQ--SAAPGVS-AAP-PST---P----A-----A---AV----A----PAPTMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D5I7C4/782-932                ---------------------VASTQTI-----S--QASAPT-----QA--SPE-PAP-AAP-PST---P----A-----A---AV----A----PAPTMSKLEYLQKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSSELQNLYIELYQKE
+UniRef90_F1BZ57/784-935                ---------------------VASTQTI-----S--QAPAPT-----QA--SPE-PAP-AAP-PST---P----A-----A---AV----A----PAPTMSKLEYLQKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSSELQNLYIELYQKE
+UniRef90_D7P370/762-911                ----------------------GDAQQV-----I--STQ-PT-----SQ--SAAPDVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_F1BZ53/770-917                -------------------------QQV-----I--STQPTS-----QS--AA-PGVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_F1BZ54/770-917                -------------------------QQV-----I--STQPTS-----QS--AA-PGVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_Q8I0S8/770-917                -------------------------QQV-----I--STQPTS-----QS--AA-PGVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D7P3B3/755-904                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D7P3B4/759-903                ---------------------------V-----I--STQPTS-----QS---AAPGVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_F1BZ58/741-890                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_Q8I1K9/752-901                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_F1BZ56/761-910                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D5I752/763-912                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D7P379/763-912                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_Q02569/757-906                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_E3WDH7/757-906                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D7P364/761-910                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D5I753/763-912                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D5I7F1/769-918                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_Q8I1M6/762-911                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D7P374/761-910                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_Q8I0K3/765-906                -------------------------------------TQP-T-----SQ--SAAPGVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_M4YDU7/773-908                --------------------------------------------------------VQ-PTQ-GQV--------Q-----V---AT----Q----NGPTMTKLQYLEKLYDFLYTSYVCHKYILVTNSTMNTDLLAKYNLTQEEEE--K-K--K--TIKC--DQLDLLFNLQNNLPVMYSLFDNMTSTLQSSYVQLYEKE
+UniRef90_E3WDJ0/752-902                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D5I788/756-907                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_D5I758/763-915                ---------------------AGDAQQV-----I--STQ-PT-----SQ--SAAPDVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSSELQNLYIELYQKE
+UniRef90_G4XPA4/864-981                ------------------------------------------------------------------------------------------------APAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNLYIELYQKE
+UniRef90_Q8I1L9/783-933                ---------------------VASTQTT-----S--QAPAPT-----QA--SPE-PAP-AAP-PST---P----A-----A---AV----A----PAPTMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSSELQNLYIELYQKE
+UniRef90_R4IL15/848-963                -----------------------------------------------------------------------------------------------AAPAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNLYIELYQKE
+UniRef90_R4IKU0/848-963                -----------------------------------------------------------------------------------------------AAPAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNLYIELYQKE
+UniRef90_G4XP94/848-963                -----------------------------------------------------------------------------------------------AAPAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNLYIELYQKE
+UniRef90_G4XPA7/848-963                -----------------------------------------------------------------------------------------------AAPAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNLYIELYQKE
+UniRef90_R4ILC9/848-963                -----------------------------------------------------------------------------------------------AAPAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNLYIELYQKE
+UniRef90_R4ILD1/866-981                -----------------------------------------------------------------------------------------------AAPAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNLYIELYQKE
+UniRef90_G4XPA8/868-985                ------------------------------------------------------------------------------------------------APAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNMYIELYQKE
+UniRef90_D7P371/753-903                ---------------------AGDAQQV-----I--STQ-PT-----SQ--SAAPDVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSSELQNLYIELYQKE
+UniRef90_D4AFM9/756-924                -----TEASATTT---STETSQGETAAV-----S--ETTPEAPEGEETP--SPVPGTA-APA-PPA---P----V-----P---SA----P----AAPSMSKLEYLEKLLDFLKSSYACHKHIFVTNSTMNKDLLMQYELTADEKS--K-I--NESK--C--DQLDLLFNIQNNLPAMYSIYDTMSNDLQNLYIELYQKE
+UniRef90_A7BG24/827-941                ------------------------------------------------------------------------------------------------APTMSKLEYLEKLLDFLKSSYACHKHIFVTNSTMNKELLKKYELTDDEKN--K-I--KQST--C--DELDLLFNVQNNLPAMYSIYDTMINDLQNLYIELYQKE
+UniRef90_D5I766/754-903                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSSELQNLYIELYQKE
+UniRef90_D5I760/762-911                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSSELQNLYIELYQKE
+UniRef90_D7P3A8/757-906                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSSELQNLYIELYQKE
+UniRef90_Q8I1L3/754-903                ----------------------GDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSSELQNLYIELYQKE
+UniRef90_D4AFL3/822-964                -------------------------------------SATPT-----ET--TPVETTT-AVT-PP---------A-----T---TA----P----AAPAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNLYIELYQKE
+UniRef90_G4XPA0/832-971                ----------------------------------------PT-----ET--TPVETTT-AVT-PPV---T--------------TA----P----AAPAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNLYIELYQKE
+UniRef90_D5I764/761-913                ---------------------AGDAQQV-----I--STQ-PT-----SQ--SAAPDVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEKT--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQKE
+UniRef90_G4XPA2/839-978                ----------------------------------------PT-----ET--TPVETTT-AVT-PPV---T--------------TA----P----AAPAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNLYIELYQKE
+UniRef90_D4AFN0/855-969                -------------------------------------------------------------------------------------------------PTMSKLEYLEKLLDFLKSAYACHKHIFLTNTTMNPELLTQYKLTPDEKN--I-INQN--S--C--DELDLLFNIQNNLPAMYSIYDTMINDLQNLYIDLYQKE
+UniRef90_D4AFL2/841-959                ------------------------------------------------------------------------------------TA----P----AAPAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNLYIELYQKE
+UniRef90_A7BG17/829-951                -----------------------------------------------------------------------------------------------AEASMSKVEYLEKLLNFLKSAYACHKHIFVTNSTMKEELLKEYELTTDEEE--K-I--K--QSPC--DNLDLIFNVQNNLPAMYSLYETMGDDLQNLYIELYEKE
+UniRef90_A0A0N9H6C8/115-243            ---------------------VASTQTT-----S--QAPAPT-----QA--SPE-PAP-AVP-PST---P----A-----A---AV----A----PAPTMSKLEYLQKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQK-
+UniRef90_G4XP99/835-956                ------------------------------------------------------------------------------------TA----P----AAPAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNLYIELYQKE
+UniRef90_C9DPH5/99-227                 ---------------------VASTQTT-----S--QAPAPT-----QA--SPE-PAP-AVP-PST---P----A-----A---AV----A----PAPTMSKLEYLQKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--NETK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQK-
+UniRef90_A0A0N9H8Y4/92-220             ---------------------AGDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQK-
+UniRef90_A0A0N9H0D9/100-228            ---------------------AGDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQK-
+UniRef90_A0A023PZP0/754-908            ---------ASTE---TTETSPAPGTTV-----T--PTTEET-----QS--SQSA-----SS-TTP---A----Q-----T---AT----P----AKPVMTKLYYLEKLQKFLVFSYSCHKYVLLQNSTINKDALSKYALTSEEDKIRT-L--K--R--C--SELDVLLAIQNNMPTMYSLYESIVDGLQNIYTELYEKE
+UniRef90_Q8MPJ2/87-215                 ---------------------AGDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-IYQN--K--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQK-
+UniRef90_X2J2B2/538-654                ------------------------------------------------------------IE-----------------------N----P----VEEARKKVDFFEKLYNFLNSSYICHKKLLLSNSTMNKNLLEKYKLTNEEEK--K-S--G--S--C--NSLDLLYKIQNNMKAMYSLYENTNSDLQYLYYELFKKE
+UniRef90_G4XP98/869-986                ------------------------------------------------------------------------------------------------APAMSKLEYLEKLLEFLKSSYACHKHIFLTNSTMNPELLKQYALTTDEEK--K-I--KESA--C--DELDLLFNVQNNLPSMYSIYDTMINDLQNLYIELYQKE
+UniRef90_Q8MPJ5/89-213                 -------------------------QQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---VA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELYADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQK-
+UniRef90_A0A449BRM6/811-977            -----TEESTEAS---TTQEGTTPTSPV-----S--EEAQPT-----AS--ETPAEVP-APT-PAA---PAPAAA-----E---AA----P----AKPVMTKLYYLEKLKKFLTFSYSCHKYVLLQNSTINKDALSKYALTPEEDKIRT-L--K--R--C--SELDVLLAIQNNMPTMYSLYESIVDGLQNIYTELYEKE
+UniRef90_Q8MPJ8/91-219                 ---------------------AGDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHFFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQK-
+UniRef90_D4AFM6/805-923                ------------------------------------------------------------------------------------AA----P----AAPTMSKLEYLEKLLDFLKSSYACHKHIFVTNSTMNKELLKKYELTDDEKN--K-I--KQST--C--DELDLLFNVQNNLPAMYSIYDTMINDLQNLYIELYQKE
+UniRef90_A7BG20/800-910                -------------------------------------------------------------------------------------------------PSMSKLEYLEKLLDFLKSSYACHKHIFVTNSTMNKDLLMQYELTADEKS--K-I--NESK--C--DQLDLLFNIQNNLPAMYSIYDTMSNDLQNLYIELYQKE
+UniRef90_A7BG22/794-943                ------LATEPAP---APEEPVGPVTPV-----T--TPQPTS-----QP--AAPAAP--------------------------------------AAPTMSKLEYLEKLLDFLKSSYACHKHIFVTNSTMNKELLKKYELTDDEKN--K-I--KQST--C--DELDLLFNVQNNLPAMYSIYDTMINDLQNLYIELYQKE
+UniRef90_A7BG27/795-943                -------ATEPAP---APEEPVGPVTPV-----T--TPQPTS-----QP--AAPAAP--------------------------------------AAPTMSKLEYLEKLLDFLKSSYACHKHIFVTNSTMNKELLKKYELTDDEKN--K-I--KQST--C--DELDLLFNVQNNLPAMYSIYDTMINDLQNLYIELYQKE
+UniRef90_A7BG25/794-943                ------LATEPAP---APEEPVGPVTPV-----T--TPQPTS-----QP--AAPAAP--------------------------------------AAPTMSKLEYLEKLLDFLKSSYACHKHIFVTNSTMNKELLKKYELTDDEKN--K-I--KQST--C--DELDLLFNVQNNLPAMYSIYDTMINDLQNLYIELYQKE
+UniRef90_A7BG23/799-939                ------------------EEPVGPVTPV-----T--TPQPTS-----QP--AAPTA----------------------------------P----AAPTMSKLEYLEKLLDFLKSSYACHKHIFVTNSTMNKELLKKYELTDDEKN--K-I--KQST--C--DELDLLFNVQNNLPAMYSIYDTMINDLQNLYIELYQKE
+UniRef90_A0A1J1GWB8/692-822            -----------------------------------------------------QEPTL-PVQ-QNS---E----N-----T---EN----P----VETIRKKIDFFEKLHNFLNTAYICHRKILLSNSTMSESSLEKYQFTDEEKK--K-L--N--L--C--DSSDLLFNIQNKMQVMYSMYDDANNDLQHLYNEMFQKE
+UniRef90_A7BG26/822-966                --------PPEVE---TPEEPVGPVVPV-----T--TTQPTS-----QP--AAPA-----------------------------------------APTMSKLEYLEKLLEFLKSSYACHKHIFVTNSTMNKELLKQYALTADEEN--K-I--KQST--C--DQLDLLFNVQNNLPAMYSIYDTMINDLQNLYIDLYQKE
+UniRef90_A7BG31/798-944                ---------PEEP---APEEPVGPVTPV-----T--TPQPTS-----QP--AAPTAP--------------------------------------AAPTMSKLEYLEKLLDFLKSSYACHKHIFVTNSTMNKELLKKYELTDDEKN--K-I--KQST--C--DELDLLFNVQNNLPAMYSIYDTMINDLQNLYIELYQKE
+UniRef90_P13828/784-912                -----------------------------------------------QE--TQPSQ---------A---A----S-----S---TT----P----AKPVMTKLYYLEKLQKFLVFSYSCHKYVLLQNSTINKDALSKYALTSEEDKIRT-L--K--R--C--SELDVLLAIQNNMPTMYSLYESIVDGLQNIYTELYEKE
+UniRef90_D4AFM1/907-1057               --------------------AATPATTT-----E--ISIPTT-----TP--TPAAA---------L---S----P-----A---LS----P----AAPSMSKVEYLEKLLNFLKSAYACHKHIFVTNSTMKKELLDQYKLTTDEEN--K-I--KESK--C--DKLDLIFNVQNNLPAMYSIYDTMSDDLQNLYIELYEKE
+UniRef90_A7BG21/818-956                ----------------------------------------PE-----EP--VGPVTPV-TTP-QPT---S----Q-----P---AA----P----AAPTMSKLEYLEKLLDFLKSSYACHKHIFVTNSTMNKELLKKYELTDDEKN--K-I--KQST--C--DELDLLFNVQNNLPAMYSIYDTMINDLQNLYIELYQKE
+UniRef90_A7BG30/768-907                ----------------TTEEPVTAVTPV-----T--TTQPTS-----QP--AAPA-----------------------------------------APTMSKLEYLEKLLEFLKSSYACHKHIFVTNSTMNKELLKQYALTTDEEN--K-I--KQST--C--DQLDLLFNVQNNLPAMYSIYDTMINDLQNLYIDLYQKE
+UniRef90_A0A1D3SCF1/790-941            ------------------PATTPEAAT------T--AATPAT-----TP--EAATTST-TTS-TTT---S----T-----T---TS----T----TTPVMTKLYYLEKLQKFLVFSYSCHKYLLLQNSTINKDALSKYALTTEEDKIRT-L--K--R--C--SELDILLAIQNNMPTMYSLYESIVDGLQNIYAELYEKE
+UniRef90_D4AFN2/769-885                ------------------------------------------------------------------------------------------------APAMTKLEYLEKLLEFLKSAYRCHKHIFVNRSTMGKEALTKYELNTLESRIIN-V--S--P--C--DELDLLFNVQNNLPAMYSIYESMSNDLQNLYIELYEKE
+UniRef90_A0A5A4MP72/95-220             ---------------------AGDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNLYIEL----
+UniRef90_A0A1C3KBX4/822-947            ----------------------------------------------------PQTETE-VEE-------T----Q-----E---IG----I----VVPTLSKLQYLEKLYDFLKTAYVCHINILVNNSTMNETLLQQYKLKIEEDK--KLL--E--K--C--DQLDLLFNVQNNLQVMYSMYDSVSNVLQNQYKELNQKE
+UniRef90_Q8MPI6/115-243                ---------------------VASTQTT-----S--QAPAPT-----QA--SPE-PAP-AAP-PST---P----A-----A---AV----A----PAPTMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--N--E--TKWHELDLLFNVQNNLPAMYSIYDSMSNELQNLYIELYQK-
+UniRef90_A0A1J1H3N0/688-806            ---------------------------------------------------------------------G----N-----I---EN----P----VEEARKKVDFFEKLYNFLNSSYICHKKLLLSNSTMNKNLLEKYKLTNEEEK--K-S--G--S--C--NSLDLLHKIQNNMKVMYSLYENTNSDLQYFYYKLFKKE
+UniRef90_B9A1D1/763-934                -----TEETTETT---ETTETQAAGTPVAAPEGT--PVAEGA-----QP--AAPADVP-APT-TPA---A----PATPAAP---AA----P----AKPVMTKLYYLEKLKKFLAFSYACHKYVLLQNSTINKDALSKYALTPEEDKIRT-L--K--R--C--SELDVLLAIQNNMPTMYSLYENVVDGLQNIYTELYEKE
+UniRef90_Q2EJ80/40-164                 ---------------------AGDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSSELQNLYIE-----
+UniRef90_V7PP57/818-933                ------------------------------------------------------------------------------------------P----AKPVMTKLYYLEKLQKFLVFSYSCHKYVLLQNSTINKDALSKYALTSEEDKIRT-L--K--R--C--SELDVLLAIQNNMPTMYSLYESIVDGLQNIYTELYEKE
+UniRef90_A0A6V7SUD5/772-918            --------------------TAEEVPTV-----E--ET-QPT-----ES--ETPAEVP-APA-ATA--------A-----P---AA----P----AKPVMTKLYYLEKLKKFLEFSYSCHKYVLLQNSTINKDALSKYALTPEEDKIRT-L--K--R--C--SELDVLLAIQNNMPTMYSLYENVVDGLQNIYTELYEKE
+UniRef90_A0A6V7S4A0/792-941            ---------STEE---EAQPTESETPAE-----T--PAPAPT-----TP--ATP-----VVP-AA---------------P---AA----P----AKPVMTKLYYLEKLKKFLAFSYSCHKYVLLQNSTINKDALSKYALTPEEDKIRT-L--K--R--C--SELDVLLAIQNNMPTMYSLYESVVDGLQNIYTELYEKE
+UniRef90_B9A1D6/756-921                -QAADTTTPEGTT---PTEQEAAPTAEE-----P-----QPA-----TP--ETPAEVP-ATP-AAPAAPA----A-----P---AA----P----AKPVMTKLYYLEKLKKFLAFSYSCHKYVLLQNSTINKDALSKYALTPEEDKIRT-L--K--R--C--SELDVLLAIQNNMPTMYSLYENVVDGLQNIYTELYEKE
+UniRef90_A0A5A4MIH2/90-211             ---------------------AGDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMSNELQNL--------
+UniRef90_D4AFM3/823-972                -----------------TSDTPTPATTT-----E--ISIPTT-----TP--TPAA-------------------------A---PA----P----AAPSMSKVEYLEKLLNFLKSAYACHKHIFVTNSTMKKELLDQYKLTTDEEN--K-I--KQSK--C--DKLDLIFNVQNNLPAMYSIYDTMSDDLQNLYIELYEKE
+UniRef90_B9A1D3/828-942                ------------------------------------------------------------------------------------------P----AKPVMTKLYYLEKLKKFLAFSYACHKYVLLQNSTINKDALSKYALTPEEDKIRT-L--K--R--C--SELDVLLAIQNNMPTMYSLYENVVDGLQNIYTELYEKE
+UniRef90_Q03996/132-247                -------------------------------------------------------------------------------------A----P----AKPVMTKLYYLEKLKKFLAFSYSCHKYVLLQNSTINKDALSKYALTPEEDKIRT-L--K--R--C--SELDVLLAIQNNMPTMYSLYENVVDGLQNIYTELYEKE
+UniRef90_W7AFH8/763-916                ----------PTP---EAQPTVSETPAE-----E--AQSTPT-----E----TPAVVP-APA-TPV---A----P---------AA----P----AKPVMTKLYYLEKLKKFLEFSYSCHKYVLLQNSTINKDALSKYALTPEEDKIRT-L--K--R--C--SELDVLLAIQNNMPTMYSLYENVVDGLQNIYTELYEKE
+UniRef90_C9DPH3/32-112                 ------------------------------------------------------------------------------------------------APAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLLFNVQNNLPAMYSIYDSMS--------------
+UniRef90_A0A1D3JMS5/888-989            ----------------------------------------------------------------------------------------------------SDIVQ-IKLYDFLKTAYVCHINILVNNSTMNETLLQQYKLKIEEDK--KLL--E--K--C--DQLDLLFNVQNNLQVMYSMYDSVSNVLQNQYKELNQKE
+UniRef90_Q25684/56-222                 -QAADTTTPEGTT---PTEQEAAPTAEE-----P-----QPA-----TP--ETPAEVP-ATP-AAP---AA-PAA-----P---AA----P----AKPVMTKLYYLEKLKKFFAFLIFSHKYVLLQNSTINKDALSKYALTPEEDKIRT-L--K--R--C--SELDVLLAIQNNMPTMYSLYENVVDGLQNIYTELYEKE
+UniRef90_H9NKU5/50-157                 ---------------------VASTQTT-----S--QAPAPT-----QA--SPE-PAP-AVP-PST---P----A-----A---AV----A----PAPTMSKLEYLQKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--NETK--C--DELDLLFNVQNNLPAM----------------------
+UniRef90_C1JFB4/70-176                 ----------QAA---QVQQTPAGDAQQ-----V--ISTQPT-----SQ--SAAPGVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--KENK--C--DELDLL--------------------------------
+UniRef90_Q5Q1E6/69-167                 --------------------PAGDAQQV-----I--STQ-PT-----SQ--SAAPDVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLL--------------------------------
+UniRef90_Q5Q1G5/100-197                ---------------------VASTQTT-----S--QAPAPT-----QA--SPE-PAP-AVP-PST---P----A-----A---AV----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNAYEQN--K-I--NETK--C--DELDLL--------------------------------
+UniRef90_Q5Q1E4/76-173                 ---------------------AGDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTVDKKLLKEYELNADEKT--K-I--NQNK--C--DELDLL--------------------------------
+UniRef90_A0A8F2ZGI5/674-743            ---------------------------------------------------------------------G----N-----I---EN----P----VEEARKKVDFFEKLYNFLNSSYICHKKLLLSNSTMNKNLLEKYKLTNEEEK--K-S--G--S--C--NSLDLLHK------------------------------
+UniRef90_Q9U5L4/153-215                ----------------------------------------------------------------------------------------------------------RKAPVFFKILYACHKHIFVTNSTMKKELLDQYKLNADEQN--K-I--N--ETKY--DELDLLFNVQNNLPAC----------------------
+UniRef90_I2B3M7/68-165                 ---------------------AGDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADEQX--K-I--KENK--C--DELDLL--------------------------------
+UniRef90_C1JFB8/62-154                 ---------------------AGDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLKEYELNADEKT--K-I--NETK--C--D-------------------------------------
+UniRef90_Q5UB73/73-147                 ---------------------VASTQTT-----S--QAPAPT-----QA--SPE-PAP-AVP-PST---P----A-----A---AV----A----PAPTMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMDKKLLK----------------------------------------------------------------
+UniRef90_A7UDU0/70-152                 ---------------------AGDAQQV-----I--STQPTS-----QS--AAP-GVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTMKKELLDQYKLNADE--------------------------------------------------------
+UniRef90_A7UDT8/89-171                 ---------------------AGDAQQV-----I--STQPTS-----QS--A-APGVS-ATP-APT---P----A-----A---AA----A----PAPAMSKLEYLEKLLDFLKSAYACHKHIFVTNSTHEKELLDQYKLNADE--------------------------------------------------------
+#=GC RF                                xxxxxxxxxxxxx...xxxxxxxxxxxx.....x..xxxxxx.....xx..xxxxxxx.xxx.xxx...x....x.....x...xx....x....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..x.x..x..x..x..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+6zbgB                                  MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_UPI001BB46F98/718-891         MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_Q8I0U8/737-910                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_A0A024W7X9/578-751            MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_A5A8D2/712-885                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1V927/711-884                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1VEY0/711-884                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1V931/720-893                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1VKF1/726-899                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1VKD7/738-911                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1VKE3/741-914                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1VNZ8/741-914                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1UZW3/743-916                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1VKE0/738-911                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1V903/726-902                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1VFC8/720-890                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_P08569/718-891                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_Q25961/734-899                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1VP35/739-903                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_A5A7B2/712-876                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1VP86/715-879                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1UZN1/717-881                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1V924/717-881                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1VP61/717-881                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_S6B5R6/743-902                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1V0S1/716-874                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1V951/716-874                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1VKM3/716-874                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_A5A7C2/713-871                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_M1VKL8/722-880                MIYYLHK--LKE-E-N-H-IKKLLEEQKQITGT
+UniRef90_A0A2P9D6B1/743-916            MIYNLHK--LKN-D-E-K-IKKLLNMESETT--
+UniRef90_Q1WDD3/693-776                ---------------------------------
+UniRef90_A0A2P9CP99/713-872            MIYNLHK--LKS-N-E-K-VKALLNM-------
+UniRef90_A0A151LM12/715-869            MIYNLHK--LKS-N-E-K-VKALLNM-------
+UniRef90_Q1WDD4/690-775                ---------------------------------
+UniRef90_A0A060RSV3/787-939            MVFNLYK--LRD-N-A-R-IKDLLKKGTE----
+UniRef90_A0A2P9C0X1/701-861            MVYNLHK--LKD-N-E-K-VKNLLNKEM-----
+UniRef90_P04933/742-883                MVCNLYK--LKD-N-D-K-IKNLLEEAKKVS--
+UniRef90_A0A2P9BDP8/748-903            MVCNLYK--LKD-N-D-K-IKNLLEEAKKVS--
+UniRef90_A0A2P9GK92/742-901            MIYNLHK--HKN-D-E-K-VKELLN--------
+UniRef90_A0A1D3U8A2/780-925            MLYNIYK--MKN-S-D-KAIKAFLE-TQGITGT
+UniRef90_O00791/188-337                MVYNIYK--NKD-T-DKK-IKAFLE--------
+UniRef90_Q2I7F0/789-939                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_K9N0I4/84-234                 MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_A0A4Y5RUB9/58-199             MLYNIYK--MKN-S-E-V-AVKAFLETHGITGT
+UniRef90_O00802/166-314                MVYNIYK--NKD-T-DKK-IKAFLE--------
+UniRef90_Q8I0U0/785-937                MVYNIYK--NKDTD-K-K-IKAFLETLK-----
+UniRef90_E3WDI0/772-921                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_K9N0X2/65-214                 MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_K9N237/65-214                 MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_Q8I1L1/798-950                MVYNIYK--NKDTD-K-K-IKAFLETLK-----
+UniRef90_O00800/189-338                MVYNIYK--NKD-T-DKK-IKAFLE--------
+UniRef90_K9MZQ9/60-210                 MVYNIYE--NKDTD-K-K-IKAFLET-------
+UniRef90_D4AFM8/781-949                MVYNIYK--NKDTD-T-K-IKAFLE--------
+UniRef90_A0A0J9TZP5/797-948            MVYNIYK--NKDTD-T-K-LKAFLETL------
+UniRef90_A7BG15/877-1025               MLYNIYK--DKDTD-S-K-IKAFL---------
+UniRef90_A0A4Y5RRN2/67-197             MLYNIYK--MKN-SDK-A-IKKFLKTQ-GITGT
+UniRef90_D5I786/787-945                MVYNIYK--NKD-T-DMK-LKAFLET-------
+UniRef90_Q8I1M5/784-944                MVYNIYK--NKDTD-K-K-IKAFLETLK-----
+UniRef90_D5I7F4/787-937                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_D7P369/797-947                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_A0A4Y5RTA7/55-200             MLYNIYK--MKN-S-D-KAIKAFLE-TQGITGT
+UniRef90_D7P392/779-937                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_D4AFM7/820-933                MVYNIYK--NKDTD-T-K-IKAFLE--------
+UniRef90_R4IKY6/842-964                MVYNIYK--NKDTD-T-K-IKAFLETLK-----
+UniRef90_Q8I1L6/805-953                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_D5I768/772-922                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_K9N261/70-215                 MVYNIYK--NKNTD-T-K-IKAFLET-------
+UniRef90_D5I7C4/782-932                MVYNIYK--NKN-T-DMK-LKAFLET-------
+UniRef90_F1BZ57/784-935                MVYNIYK--NKNTD-T-K-LKAFLETL------
+UniRef90_D7P370/762-911                MVYNIYK--NKD-T-DMK-LKAFLET-------
+UniRef90_F1BZ53/770-917                MVYNIYK--NKDTD-T-K-LKAFLETL------
+UniRef90_F1BZ54/770-917                MVYNIYK--NKDTD-T-K-LKAFLETL------
+UniRef90_Q8I0S8/770-917                MVYNIYK--NKDTD-T-K-LKAFLETL------
+UniRef90_D7P3B3/755-904                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_D7P3B4/759-903                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_F1BZ58/741-890                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_Q8I1K9/752-901                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_F1BZ56/761-910                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_D5I752/763-912                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_D7P379/763-912                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_Q02569/757-906                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_E3WDH7/757-906                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_D7P364/761-910                MVYNIYK--NKD-T-DMK-LKAFLET-------
+UniRef90_D5I753/763-912                MVYNIYK--NKD-T-DMK-LKAFLET-------
+UniRef90_D5I7F1/769-918                MVYNIYK--NKD-T-DMK-LKAFLET-------
+UniRef90_Q8I1M6/762-911                MVYNIYK--NKD-T-DMK-LKAFLET-------
+UniRef90_D7P374/761-910                MVYNIYK--NKD-T-DMK-LKAFLET-------
+UniRef90_Q8I0K3/765-906                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_M4YDU7/773-908                MLYNIYK--MKN-S-E-V-AVKAFLETHGITGT
+UniRef90_E3WDJ0/752-902                MVYNIYK--NKNTD-T-K-LKAFLETL------
+UniRef90_D5I788/756-907                MVYNIYK--NKDTD-K-K-IKAFLETLK-----
+UniRef90_D5I758/763-915                MVYNIYK--NKDTD-K-K-IKAFLETLK-----
+UniRef90_G4XPA4/864-981                MVYNIYK--NKDTD-T-K-IKAFLETLK-----
+UniRef90_Q8I1L9/783-933                MVYNIYK--NKN-T-DMK-LKAFLET-------
+UniRef90_R4IL15/848-963                MVYNIYK--NKDTD-T-K-IKAFLE--------
+UniRef90_R4IKU0/848-963                MVYNIYK--NKDTD-T-K-IKAFLE--------
+UniRef90_G4XP94/848-963                MVYNIYK--NKDTD-T-K-IKAFLE--------
+UniRef90_G4XPA7/848-963                MVYNIYK--NKDTD-T-K-IKAFLE--------
+UniRef90_R4ILC9/848-963                MVYNIYK--NKDTD-T-K-IKAFLE--------
+UniRef90_R4ILD1/866-981                MVYNIYK--NKDTD-T-K-IKAFLE--------
+UniRef90_G4XPA8/868-985                MVYNIYK--NKDTD-T-K-IKAFLETLK-----
+UniRef90_D7P371/753-903                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_D4AFM9/756-924                MVYNIYK--NKN-T-NTK-IKAFLE--------
+UniRef90_A7BG24/827-941                MLYNIYK--NKD-T-DAK-IKAFLE--------
+UniRef90_D5I766/754-903                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_D5I760/762-911                MVYNIYK--NKDTD-K-K-IKAFLET-------
+UniRef90_D7P3A8/757-906                MVYNIYK--NKD-T-DMK-LKAFLET-------
+UniRef90_Q8I1L3/754-903                MVYNIYK--NKD-T-DMK-LKAFLET-------
+UniRef90_D4AFL3/822-964                MVYNIYK--NKDTD-T-K-IKAFLETLK-----
+UniRef90_G4XPA0/832-971                MVYNIYK--NKDTD-T-K-IKAFLETLK-----
+UniRef90_D5I764/761-913                MVYNIYK--NKDTD-K-K-IKAFLETLK-----
+UniRef90_G4XPA2/839-978                MVYNIYK--NKDTD-T-K-IKAFLETLK-----
+UniRef90_D4AFN0/855-969                MIYNIYK--NKDTD-T-K-IKAFLEA-------
+UniRef90_D4AFL2/841-959                MVYNIYK--NKDTD-T-K-IKAFLE--------
+UniRef90_A7BG17/829-951                MIYNIYK--NKD-KDT-R-LKVLLETTNPVTT-
+UniRef90_A0A0N9H6C8/115-243            ---------------------------------
+UniRef90_G4XP99/835-956                MVYNIYK--NKDTD-T-K-IKAFLETLK-----
+UniRef90_C9DPH5/99-227                 ---------------------------------
+UniRef90_A0A0N9H8Y4/92-220             ---------------------------------
+UniRef90_A0A0N9H0D9/100-228            ---------------------------------
+UniRef90_A0A023PZP0/754-908            MMYHIYK--LKD-E-N-PSIKSLL---------
+UniRef90_Q8MPJ2/87-215                 ---------------------------------
+UniRef90_X2J2B2/538-654                LIYNIYQ--LRN-N-D-K-IKELLT--------
+UniRef90_G4XP98/869-986                MVYNIYK--NKDTD-T-K-IKAFLETLK-----
+UniRef90_Q8MPJ5/89-213                 ---------------------------------
+UniRef90_A0A449BRM6/811-977            MVYHIYN--LKD-T-N-PAIKALL---------
+UniRef90_Q8MPJ8/91-219                 ---------------------------------
+UniRef90_D4AFM6/805-923                MLYNIYK--NKD-T-DAK-IKAFLE--------
+UniRef90_A7BG20/800-910                MVYNIYK--NKN-T-N-TKIKA-----------
+UniRef90_A7BG22/794-943                MLYNIYK--NKD-T-DAK-IKAFLE--------
+UniRef90_A7BG27/795-943                MLYNIYK--NKD-T-DAK-IKAFLE--------
+UniRef90_A7BG25/794-943                MLYNIYK--NKD-T-DAK-IKAFLE--------
+UniRef90_A7BG23/799-939                MLYNIYK--NKD-T-DAK-IKAFLE--------
+UniRef90_A0A1J1GWB8/692-822            IIYNLYK--LRN-N-E-K-INKLLTP-------
+UniRef90_A7BG26/822-966                MVYNIYK--NKDTD-T-K-IKAFLE--------
+UniRef90_A7BG31/798-944                MLYNIYK--NKD-T-DAK-IKAFLE--------
+UniRef90_P13828/784-912                MMYHIYK--LKD-E-N-PSIKSLL---------
+UniRef90_D4AFM1/907-1057               MIYNIYK--NKE-K-DTR-LKALLETTNPVT--
+UniRef90_A7BG21/818-956                MLYNIYK--NKD-T-DAK-IKAFLE--------
+UniRef90_A7BG30/768-907                MVYNIYK--NKDTD-T-K-IKAFLE--------
+UniRef90_A0A1D3SCF1/790-941            MMYHIYK--LKD-E-N-PSIKSIL---------
+UniRef90_D4AFN2/769-885                MIYSIYKNKKKD-D-K-K-IKALLET-------
+UniRef90_A0A5A4MP72/95-220             ---------------------------------
+UniRef90_A0A1C3KBX4/822-947            MIYNIYK--LVK-K-N-DKLK------------
+UniRef90_Q8MPI6/115-243                ---------------------------------
+UniRef90_A0A1J1H3N0/688-806            LIYNIYQ--LRN-N-D-K-IKELLT--------
+UniRef90_B9A1D1/763-934                MMYHIYN--LKD-K-N-P-AVKAL---------
+UniRef90_Q2EJ80/40-164                 ---------------------------------
+UniRef90_V7PP57/818-933                MMYHIYK--LKD-E-N-PSIKSLL---------
+UniRef90_A0A6V7SUD5/772-918            MMYHIYN--LKD-T-N-P-AVKA----------
+UniRef90_A0A6V7S4A0/792-941            MMYHIYN--LKD-T-N-P-AVKA----------
+UniRef90_B9A1D6/756-921                MMYHIYN--LKD-K-N-P-AVKAL---------
+UniRef90_A0A5A4MIH2/90-211             ---------------------------------
+UniRef90_D4AFM3/823-972                MIYNIYK--NKE-K-DTR-LKALLETTNPVT--
+UniRef90_B9A1D3/828-942                MMYHIYN--LKD-K-N-P-AVKAL---------
+UniRef90_Q03996/132-247                MMYHIYN--LKD-K-N-P-AVKAL---------
+UniRef90_W7AFH8/763-916                MMYHIYN--LKD-T-N-PAIKAL----------
+UniRef90_C9DPH3/32-112                 ---------------------------------
+UniRef90_A0A1D3JMS5/888-989            MIYNIYK--LVK-K-N-D---------------
+UniRef90_Q25684/56-222                 MMYHIYN--LKD-K-N-PAIKALL---------
+UniRef90_H9NKU5/50-157                 ---------------------------------
+UniRef90_C1JFB4/70-176                 ---------------------------------
+UniRef90_Q5Q1E6/69-167                 ---------------------------------
+UniRef90_Q5Q1G5/100-197                ---------------------------------
+UniRef90_Q5Q1E4/76-173                 ---------------------------------
+UniRef90_A0A8F2ZGI5/674-743            ---------------------------------
+UniRef90_Q9U5L4/153-215                ---------------------------------
+UniRef90_I2B3M7/68-165                 ---------------------------------
+UniRef90_C1JFB8/62-154                 ---------------------------------
+UniRef90_Q5UB73/73-147                 ---------------------------------
+UniRef90_A7UDU0/70-152                 ---------------------------------
+UniRef90_A7UDT8/89-171                 ---------------------------------
+#=GC RF                                xxxxxxx..xxx.x.x.x.xxxxxxxxxxxxxx
+//
