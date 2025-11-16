@@ -446,6 +446,10 @@ def main(args):
                     }
         cloned_data_to_save = deep_clone(structure_data)
         torch.save(cloned_data_to_save, structure_path)
+
+        del structure_data
+        del cloned_data_to_save
+        torch.cuda.empty_cache()
         
         # torch.save(structure_data, structure_path)
 
@@ -577,6 +581,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     print(args)
     main(args)
+
 
 
 
